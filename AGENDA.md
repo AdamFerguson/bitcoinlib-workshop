@@ -1,0 +1,24 @@
+## Agenda
+
+- What is bitcoinlib and why are we talking about it?
+  - Useful for learning more about the details of bitcoin
+  - Launching point for learning how to do bitcoin automation.
+  - Programmatic bitcoin client
+- What is the high level view of software components we're using as part of the workshop?
+- Architecture diagram from bitcoinlib website
+- Software that will be used as part of this workshop
+  - Python, Jupyter, Bitcoinlib
+  - Sparrow wallet
+  - Using the testnet instead of main
+  - Datagrip (or any other database client that can access sqlite) (maybe)
+- How to install python (covering different operating systems?)
+- How to install jupyter and bitcoinlib dependencies (from requirements.txt)
+- Starting jupyter
+- Connecting bitcoinlib to bitcoind node
+- Creating a seed (Mnemonic) - talk through security implications
+- Creating a wallet from the seed - talk about potential for multisig here
+- Generating keys and addresses for the wallet. Talk about derivation paths
+- Receive bitcoin off a testnet faucet
+- Parse the received transaction and show details about it
+- Generate a new transaction to send to a separate existing wallet
+- Sign the transaction and send it off.
