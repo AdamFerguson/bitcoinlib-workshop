@@ -33,8 +33,17 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-6. Start up Jupyter
+6. Copy `bitcoin-sample.conf` to `bitcoin.conf` and tweak the settings to connect to your own bitcoin node
+
+```bash
+cp bitcoin-sample.conf bitcoin.conf
+```
+
+7. Start up Jupyter
 
 ```bash
 jupyter notebook
 ```
+
+8. In the web browser, open bitcoinlib.ipynb and begin working!
+
