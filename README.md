@@ -1,7 +1,9 @@
 
 ## Bitcoinlib Workshop
 
-[bitcoinlib](https://github.com/1200wd/bitcoinlib)
+Working with [bitcoinlib](https://github.com/1200wd/bitcoinlib)
+
+[Slides can be found here](https://docs.google.com/presentation/d/e/2PACX-1vTSKfzb92DMjGBiuHqGnfNuA3A8x0kcFiHPBGBW-RELY-Et9bTKEwNAcMwUAtKzsMQR-wpPFNxYK0rG/pub?start=false&loop=false&delayms=3000)
 
 ### Getting Started
 
